@@ -35,7 +35,7 @@
 
 > Implemented a mini GPT model from scratch using PyTorch, inspired by Karpathy’s lectures.
 
-### 🔹 [AI Similarity Checker](#) *(link if repo public)*
+### 🔹 [AI Similarity Checker](#) 
 
 > NLP-based application to check text/document similarity using embeddings.
 
