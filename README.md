@@ -51,8 +51,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-prashar-1\&show_icons=true\&theme=radical)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumayl-lokhandwala\&show_icons=true\&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditya-prashar-1\&theme=radical)
 
 ---
